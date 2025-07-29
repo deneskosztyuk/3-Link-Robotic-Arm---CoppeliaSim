@@ -19,26 +19,26 @@ The primary goal is to understand and implement the mathematical relationships t
 
 ## Features
 
-### ✅ Forward Kinematics Implementation
+### Forward Kinematics Implementation
 - Calculates end-effector position (x, y coordinates) from joint angles
 - Uses trigonometric relationships for 2D planar movement
 - Real-time visualization in CoppeliaSim
 <img width="504" height="211" alt="image" src="https://github.com/user-attachments/assets/e1970008-0835-4d09-a591-47acad33e9ae" />
 
 
-### ✅ Inverse Kinematics Solution
+### Inverse Kinematics Solution
 - Computes required joint angles for desired end-effector positions
 - Handles geometric and trigonometric calculations
 - Supports both analytical and numerical solution methods
 
-### ✅ 3D Simulation Environment
+### 3D Simulation Environment
 - Interactive CoppeliaSim scene with kinematic manipulator
 - Visual representation of joint movements and end-effector trajectories
 - Dynamic mode simulation with proper joint configurations
 <img width="630" height="354" alt="image" src="https://github.com/user-attachments/assets/edd27ff1-6573-40bf-8972-a44fc5ef9d35" />
 
 
-### ✅ Python Integration
+### Python Integration
 - Seamless communication between Python scripts and CoppeliaSim
 - Object handling for manipulator components (base, joints, links)
 - Automated sequence control for demonstrating various configurations
